@@ -1,0 +1,19 @@
+# Button styles: [Danger, Primary, Success, Secondary]
+
+TICKET_BUTTONS:
+  CLOSE:
+    style: "Danger"
+    label: "Close"
+    emoji: "🔒"
+  CLAIM:
+    style: "Primary"
+    label: "Claim"
+    emoji: "📪"  
+  CONFIRM_CLOSE:
+    style: "Success"
+    label: "Confirm"
+    emoji: "✅"
+  CANCEL_CLOSE:
+    style: "Danger"
+    label: "Cancel"
+    emoji: "❌"

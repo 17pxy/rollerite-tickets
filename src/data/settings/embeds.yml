@@ -1,0 +1,5 @@
+
+ERROR:
+  title: "Command Error"
+  description: "✖️ | There was an error with the command, check the logs."
+  color: 0xFF0000

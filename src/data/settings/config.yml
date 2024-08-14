@@ -1,0 +1,22 @@
+##########################################
+#               Bot Settings             #
+##########################################
+
+BOT_CONFIG:
+  NAME: "Rollerite"
+  EMBED_COLOR: 0x2c2c34
+  TOKEN: ""
+  GUILD_ID: ""
+  BOT_ID: ""
+  MONGO_URI: ""
+
+##########################################
+#             Ticket Settings            #
+##########################################
+
+TICKET: 
+  ROLES:
+    ACCESS: "1263615459560001577"
+  SETTINGS:
+    OPEN_NAME: "ticket-<userName>" 
+    CATEGORY_OPEN: "1273403715201798234"
